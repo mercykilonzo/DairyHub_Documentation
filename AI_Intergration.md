@@ -26,7 +26,7 @@ Enable farmers to ask natural language questions about any product within the mo
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Backend API Layer                                   |Manages communication between the mobile app and the NLP model retrieves product metadata     |
 |                                                     |and handle user session security                                                              |   
-|                                                     |                                                                                              |------------------------------------------------------|----------------------------------------------------------------------------------------------|
+
  
 
  ### Interaction Flow for AI-powered Product Query in DairyHub

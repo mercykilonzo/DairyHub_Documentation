@@ -1,8 +1,8 @@
-# DairyHub Project Overview & Release Notes
+**DairyHub Project Overview & Release Notes**
 
 
 
-## Project Details
+**Project Details**
 
 - **Start Date:** May 2025  
 - **Deployment:** Hosted on **Heroku**  
@@ -16,9 +16,7 @@
 - **AI Component:** Smart Product Assistant (Planned in upcoming versions)
 
 
-## Version 1.0.0 – May 2025 
-
-### Core Features
+**Core Features**
 
 - **Information Website:** Static informational pages about DairyHub and platform overview.
 
@@ -52,9 +50,9 @@
   - Smart Product Assistant to provide explanations about product use and benefits to buyers.
 
 
-## Upcoming Release
+**Upcoming Release**
 
-### Planned Enhancements
+**Planned Enhancements**
 
 - Integration of AI assistant with chat and voice capabilities.
 - Implementation of a rating and review system.

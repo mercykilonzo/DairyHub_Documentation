@@ -8,8 +8,8 @@ Enable farmers to ask natural language questions about any product within the mo
 **Components & How They Work Together**
 
 
-|                                                     |                                                                                              |
-| **Component**                                       |                       **Role**                                                               |
+                                                                                          
+| **Component**                                       |                       **Role**  
 |-----------------------------------------------------|----------------------------------------------------------------------------------------------|
 | Natural Language Processing (NLP)Model              |Processes the farmer’s query, understands intent and key entities,and generates informative   |
 |                                                     |contextually relevant answers using product metadata and training data.                       |   
@@ -18,7 +18,7 @@ Enable farmers to ask natural language questions about any product within the mo
 | Embedded Chat style UI in mobile app                |Provides convesional interface in the app for farmers to type  or speak their querries and    |
 |                                                     |and receive AI generated response respectivectly.                                             |   
 |                                                     |                                                                                              |
-|-----------------------------------------------------|----------------------------------------------------------------------------------------------|
+|                                                     |                                                                                              |
 | Product Database with structured Meta Data          |Store Detailed well organized data about each product incluiding descriptions usage benefit   |
 |                                                     |and resks to serve as acknowledge base for response AI                                        |   
 |                                                     |                                                                                              |

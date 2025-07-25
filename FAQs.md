@@ -1,4 +1,4 @@
-# DairyHub Supplier Dashboard FAQ
+# DairyHub  FAQ
 
 Here are answers to common questions about using the DairyHub Supplier Dashboard:
 

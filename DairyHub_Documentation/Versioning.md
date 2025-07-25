@@ -1,7 +1,5 @@
 **DairyHub Project Overview & Release Notes**
 
-
-
 **Project Details**
 
 - **Start Date:** May 2025  

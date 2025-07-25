@@ -8,23 +8,28 @@ Enable farmers to ask natural language questions about any product within the mo
 **Components & How They Work Together**
 
 
-                                                                                          
-| **Component**                                       |                       **Role**  
-|-----------------------------------------------------|----------------------------------------------------------------------------------------------|
-| Natural Language Processing (NLP)Model              |Processes the farmer’s query, understands intent and key entities,and generates informative   |
-|                                                     |contextually relevant answers using product metadata and training data.                       |   
-|                                                     |                                                                                              |
-|
-| Embedded Chat style UI in mobile app                |Provides convesional interface in the app for farmers to type  or speak their querries and    |
-|                                                     |and receive AI generated response respectivectly.                                             |   
-|                                                     |                                                                                              |
-|                                                     |                                                                                              |
-| Product Database with structured Meta Data          |Store Detailed well organized data about each product incluiding descriptions usage benefit   |
-|                                                     |and resks to serve as acknowledge base for response AI                                        |   
-|                                                     |                                                                                              |
-|
-| Backend API Layer                                   |Manages communication between the mobile app and the NLP model retrieves product metadata     |
-|                                                     |and handle user session security                                                              |   
+# Product System Components and Their Roles
+
+- **Natural Language Processing (NLP) Model**  
+  - Processes farmer’s queries  
+  - Understands intent and key entities  
+  - Generates informative, contextually relevant answers using product metadata and training data  
+
+- **Embedded Chat Style UI in Mobile App**  
+  - Provides conversational interface for farmers  
+  - Allows typing or speaking queries  
+  - Delivers AI-generated responses in real-time  
+
+- **Product Database with Structured Meta Data**  
+  - Stores detailed and well-organized product data  
+  - Includes descriptions, usage, benefits, and risks  
+  - Serves as the knowledge base for AI-generated responses  
+
+- **Backend API Layer**  
+  - Manages communication between the mobile app and NLP model  
+  - Retrieves product metadata efficiently  
+  - Handles user session security  
+
 
  
 

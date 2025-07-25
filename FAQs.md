@@ -1,6 +1,6 @@
 # DairyHub  FAQ
 
-Here are answers to common questions about using the DairyHub Supplier Dashboard:
+Here are answers to common questions about using the DairyHub application:
 
 
 ### What is the DairyHub App?  

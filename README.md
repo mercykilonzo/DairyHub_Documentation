@@ -196,7 +196,7 @@ Enable farmers to ask natural language questions about any product within the mo
 
 ### Visual Architecture Overview
 
-![DairyHub Infromational website](https://dairy-hub-informational.netlify.app/)
+![DairyHub Infromational website](https://dairyhub.netlify.app/)
 
 # Testing Strategies
 To ensure DairyHub’s reliability and quality, we follow a comprehensive testing approach covering multiple levels:
